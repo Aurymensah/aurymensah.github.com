@@ -1,0 +1,27 @@
+h1
+{
+    font-size: 35px;
+}
+h2
+{
+    text-decoration: underline ;
+    word-spacing: 0,4em;
+    color:brown;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+    
+}
+p
+{
+    font-size: 30px;
+}
+ul {
+    text-decoration: underline;
+    color: brown;
+    font-size: 32px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none
+    
+    ;
+}
